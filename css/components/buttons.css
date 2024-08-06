@@ -1,0 +1,10 @@
+.btn-apply {
+  padding: 15px 25px;
+  background-color: rgb(38, 173, 38);
+  color: white;
+  border-radius: 10px;
+}
+
+.btn-apply:hover {
+  opacity: 0.3;
+}

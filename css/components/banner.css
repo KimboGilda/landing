@@ -1,0 +1,19 @@
+.banner {
+  height: 45vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(../../images/background.png);
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: rgb(162, 162, 162);
+}
+
+.banner p {
+  margin-bottom: 30px;
+}

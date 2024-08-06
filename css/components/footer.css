@@ -1,0 +1,19 @@
+.footer {
+  height: 20vh;
+  background-color: rgb(38, 38, 38);
+  text-align: center;
+}
+
+.footer a {
+  font-size: 35px;
+  color: green;
+  padding: 5px;
+}
+
+.footer p {
+  color: rgb(188, 188, 188);
+}
+
+.footer a:hover {
+  opacity: 0.5;
+}
